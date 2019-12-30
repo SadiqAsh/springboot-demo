@@ -9,7 +9,7 @@
     <version>1.0-SNAPSHOT</version>
 
     <name>myProject</name>
-    <url>https://blog.csdn.net/qq_38366063</url>
+    <url></url>
     <description>springboot分模块项目</description>
 
     <properties>
